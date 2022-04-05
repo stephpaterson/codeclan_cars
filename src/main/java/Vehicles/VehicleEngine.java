@@ -1,6 +1,6 @@
 package Vehicles;
 
-public class VehicleEngine extends CarComponent {
+public class  VehicleEngine extends CarComponent {
 
     private EngineType engineType;
 
